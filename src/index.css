@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+.cls-2 { fill: #ffca05; }
+.cls-4 { fill: #ffca05; }
+.cls-5 { fill: #f05a28; }
+.cls-6 { fill: #f05a28; }
+.cls-7 { fill: #1b75bb; }
+.cls-8 { fill: #1b75bb; }
+.cls-9 { fill: #2b3980; font-family: sans-serif; }
+.cls-16 { fill: #ffffff; font-family: serif; }
+
+:root {
+    font-family: 'Poppins', 'Inter', system-ui, sans-serif;
+}
+
+body {
+    background-color: #0b0b0b;
+    color: white;
+    margin: 0;
+}
+
+/* සිනිඳු ලෙස Scroll වීම සඳහා */
+html {
+    scroll-behavior: smooth;
+}
